@@ -1,0 +1,11 @@
+{
+  "name": "vpk-file-search",
+  "version": "1.0.0",
+  "description": "Given a string, looks whether that file is in any of the vpk files of the current working directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LuisMayo",
+  "license": "Apache-2.0"
+}
